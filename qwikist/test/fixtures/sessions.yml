@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2017-05-13
+  time: 2017-05-13 11:48:10
+  client: one
+  trainer: one
+  gym: one
+
+two:
+  date: 2017-05-13
+  time: 2017-05-13 11:48:10
+  client: two
+  trainer: two
+  gym: two
